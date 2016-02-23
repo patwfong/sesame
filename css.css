@@ -1,0 +1,11 @@
+img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+img.fullcenter {
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+}
